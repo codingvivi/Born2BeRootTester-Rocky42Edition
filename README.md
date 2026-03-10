@@ -1,7 +1,5 @@
-# Born2BeRootTester
-Tested for Debian only
-
-Check the mandatory part only of Born2BeRoot
+# Born2BeRootTester - Rocky edition!
+[Pixailz' Born2BeRootTester](https://github.com/Pixailz/Born2BeRootTester) edited for usage on Rocky Linux.
 
 If you specify the monitoring script, the tester will check for the cron tab
 configuration, not how it works
